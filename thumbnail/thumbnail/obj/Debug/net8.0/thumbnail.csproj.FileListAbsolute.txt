@@ -1,0 +1,14 @@
+C:\Users\Junior\source\repos\thumbnail\thumbnail\bin\Debug\net8.0\thumbnail.exe
+C:\Users\Junior\source\repos\thumbnail\thumbnail\bin\Debug\net8.0\thumbnail.deps.json
+C:\Users\Junior\source\repos\thumbnail\thumbnail\bin\Debug\net8.0\thumbnail.runtimeconfig.json
+C:\Users\Junior\source\repos\thumbnail\thumbnail\bin\Debug\net8.0\thumbnail.dll
+C:\Users\Junior\source\repos\thumbnail\thumbnail\bin\Debug\net8.0\thumbnail.pdb
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.AssemblyInfo.cs
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.dll
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\refint\thumbnail.dll
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.pdb
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\thumbnail.genruntimeconfig.cache
+C:\Users\Junior\source\repos\thumbnail\thumbnail\obj\Debug\net8.0\ref\thumbnail.dll
